@@ -1,8 +1,8 @@
-name:                fluent-haskell
+name:                expressive-haskell
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/fluent-haskell#readme
+homepage:            https://github.com/johnchildren/expressive-haskell#readme
 license:             BSD3
 license-file:        LICENSE
 author:              John Children
@@ -22,4 +22,4 @@ executable fluent-haskell-exe
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/fluent-haskell
+  location: https://github.com/johnchildren/expressive-haskell
